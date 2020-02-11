@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.description = ""
   s.authors     = ["Shota Morimoto"]
   s.email       = 'shouta.morimoto@gmail.com'
-  s.files       = ["lib/attr-utils.rb"]
+  s.files       = Dir["LICENSE", "README.md", "lib/**/*"]
   s.homepage    = 'https://twitter.com/shoutm'
   s.license     = 'MIT'
 end
