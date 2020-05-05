@@ -8,6 +8,6 @@ Just require and extend AttrUtils whereever you want.
 require 'attr-utils'
 
 class Test
-  extend AttrUtils
+  include AttrUtils
 end
 ```
